@@ -1,1 +1,1 @@
-Projeto Landing Page com HTML e CSS e sem JavaScript, um marketing simples porém intuitivo.
+Landing Page project with HTML and CSS without JavaScript, a simple yet intuitive marketing approach.
