@@ -7,7 +7,7 @@ A abordagem de design evidencia uma preocupação com a estética e a funcionali
 » Otimização para Conversão    
 O conteúdo e o design são claramente orientados para a conversão, destacando os benefícios do curso e incluindo elementos como depoimentos e cálculos de potencial de ganhos, visando incentivar a inscrição dos visitantes. Em suma, a lógica por trás desses códigos demonstra um pensamento estratégico na criação de uma página web eficaz, combinando design atraente, conteúdo persuasivo e funcionalidade técnica para atingir os objetivos de marketing e educação do curso de extensão de cílios.    
 
-##English
+##English  
 » HTML Structure    
 The HTML file establishes the content and structure of the page. It presents information about the "3 in 1 Lash Fundamental" course, including details about the techniques taught, course benefits, and information about the instructor, Vivi Riguete. The structure is organized into logical sections, facilitating navigation and understanding of the content by visitors.    
 » CSS Styling    
